@@ -42,7 +42,7 @@ get_header(); ?>
 		</main><!-- #main -->
 		<div class="translation-section">
             <h2>Apply Here!</h2>
-            <p>Once you apply, we will send you the full infotmation about this translation right away. :)</p>
+            <p>Once you apply, we will send you the full information about this translation right away. :)</p>
 			<?php echo do_shortcode('[ninja_form id=1]'); ?>
 		</div><!-- #translation-form -->
 	</div><!-- #primary -->
