@@ -1,0 +1,296 @@
+Configuring Header
+	Go to Dashboard > Appearance > Customize.
+	
+	Upload Logo
+		Under Header Logo Settings.
+		Click on 'Select Image' button and choose the image from the media library that you wish to display as site logo.
+		Click on 'Save & Publish' button.
+	Enable Disable Fav Icon
+		Under Header Fav Icon Setting.
+		Click on 'Select Image' button and choose the image from the media library that you wish to display as site favicon.
+		Click on 'Save & Publish' button.
+	Set Up Menu
+		Check on 'Enable Sticky Header' option if you wish to make the menu sticky.
+		Select the location for displaying the menu from 'Show Where On Click' dropdown list.
+		Click on 'Save & Publish' button.
+Configuring Slider
+	Go to Dashboard > Appearance > Customize.
+	Go to Slider Settings
+	Under General Settings.
+	Check 'Enable Overlay' option if you want to display overlay in your sliders.
+	Choose the Overlay direction (either Top or Below) as per your requirement.
+	Add Slides for the slider by.
+		Opening Slide (1-4) Tab
+		Click on 'Select Image' button and choose the slider image from the media library as per your requirement.
+		Enter the Caption title for the slider 'Caption Title' field.
+		Enter the Caption description for the slider under 'Caption Description' field.
+		Enter the text for the slider button under 'Button Text' field.
+		Enter the link for the slider button under 'Button Link' field.
+		Click on 'Save & Publish' button.
+	
+Configuring Home Page
+	The theme allows users to display Home page in four ways as please configure the settings as per your requirement.
+	Displaying Latest Post at Home Page.
+		Go to Dashboard > Settings > Reading 
+		Select 'Your latest posts' to display at Front page.
+		Then,
+		Go to Dashboard > Appearance > Customize
+		Under General Settings make sure you've unchecked 'Enable Parallax' option.
+		Click on 'Save & Publish' button.
+		
+	Displaying Static Home Page.
+		Go to Dashboard > Pages > Add New.
+		Create a page with the page title and content as per your requirement.
+		Now
+		Go to Dashboard > Settings > Reading 
+		Select 'A Static page' to display at Front page.
+		And select the page you've created for your home page from 'Front Page' dropdown list.
+		Then,
+		Under General Settings make sure you've unchecked 'Enable Parallax' option.
+		Click on 'Save & Publish' button.
+		
+	Displaying Parallax Home Page with Parallax Menu.
+		Go to Dashboard > Settings > Reading.
+		Select the Front Page to display your latest posts if it is selected to display static page.
+		Save the changes.
+		Create a page with 'Home' page template.
+		Now
+		Go to Dashboard > Appearance > Customize > Home Page Settings.
+		Under General Settings check 'Enable Parallax' option.
+		Click on 'Save & Publish' button.
+		
+	Displaying Parallax Home Page with Custom Menu.
+		Go to Dashboard > Pages > Add New.
+		Create a page with 'Home' page template.
+		Then,
+		Go to Dashboard > Appearance > Customize > Home Page Settings.
+		Uncheck the 'Enable Parallax' Section widget.
+		Click on 'Save & Publish' button.
+		Then,
+		Go to Dashboard > Settings > Reading.
+		Set the Front page to display Static Page and select the home page you've created using 'home' page template from 'Front Page' dropdown list.
+		Save the Settings.
+
+Set Up Parallax Home Page
+	Configuring About Section
+		Create a Page for About Section.
+			Go to Dashboard > Pages > Add New.
+			Enter the title and contents for the about page.
+			Click on Publish button.
+		
+		Go to Dashboard > Appearance > Customize > Home Page Settings.
+		Under About Section.
+		Check on 'Enable Section' option to display this section at home page.
+		Enter the menu text for the section in 'Section Menu Text' field. The text will be shown as menu item. If you leave this field empty the menu item for this section won't be displayed in the parallax menu section.
+		Select the page for the about section that you've created from 'Select Page' dropdown list.
+		Enter the Section title under 'Section Title' field as per your requirement.
+		Select the color for the section title from 'Section Title Color' color picker option.
+		Select the color for the section content from 'Section Content Color' color picker option.
+		Set the Background Color for the section from 'Background Color' color picker option as per your requirement.
+		Or,
+		Set the Background Image for the section by clicking on 'Select Image' button and select the image as per your requirement from the media library.
+		After selecting the image you'll be provided with the set of background option (repeat, position, attachment, size etc..). Configure the option as per your requirement.
+		You may also enable/disable the background overlay (a light blue transparency over the section) option as per your requirement.
+		Click on 'Save & Publish' button.
+		
+	Configuring Portfolio/Project Section
+		You'll need to create one main category to configure the portfolio section successfully. You may then create many one-level child categories as per your requirement under this main category and add portfolio posts under those categories.
+		Create Categories for the Portfolio Section.
+			Go to Dashboard > Posts > Categories.
+			Enter the name for the category (e.g. 'Project')
+			Add other sub-categories under this main category as per your requirement.
+		Create Posts under the portfolio Categories.
+			Go to Dashboard > Posts > Add New.
+			Enter the title and contents for the portfolio post.
+			Select the categories for the portfolio post.
+			Set the Featured Image for the Portfolio Post.
+			Click on Publish/Update button.
+		
+		Go to Dashboard > Appearance > Customize > Home Page Settings.
+		Under Portfolio/Project Section.
+		Check on 'Enable Section' option to display this section at home page.
+		Enter the menu text for the section in 'Section Menu Text' field. The text will be shown as menu item. If you leave this field empty the menu item for this section won't be displayed in the parallax menu section.
+		Enter the Section title under 'Section Title' field as per your requirement.
+		Select the color for the section title from 'Section Title Color' color picker option.
+		Select the portfolio category in from 'Select Category' dropdown list. Make sure you've selected the top-level main portfolio category.
+		Enter your custom 'View All' text under 'Portfolio View All Text' field.
+		Set the Background Color for the section from 'Background Color' color picker option as per your requirement.
+		Or,
+		Set the Background Image for the section by clicking on 'Select Image' button and select the image as per your requirement from the media library.
+		After selecting the image you'll be provided with the set of background option (repeat, position, attachment, size etc..). Configure the option as per your requirement.
+		You may also enable/disable the background overlay (a light blue transparency over the section) option as per your requirement.
+		Click on 'Save & Publish' button.
+		
+	Configuring Services Section
+		Create Pages for Services Section
+			Go to Dashboard > Pages > Add new.
+			Enter the title and content for the service page.
+			Set the feature image for the service page. (As for the demo we have used 64x64 transparent white icon images).
+			Click on Publish button.
+			Create other 3 pages in the same way.
+		
+		Go to Dashboard > Appearance > Customize > Home Page Settings.
+		Under Our Services Section.
+		Check on 'Enable Section' option to display this section at home page.
+		Enter the menu text for the section in 'Section Menu Text' field. The text will be shown as menu item. If you leave this field empty the menu item for this section won't be displayed in the parallax menu section.
+		Enter the Section title under 'Section Title' field as per your requirement.
+		Select the color for the section title from 'Section Title Color' color picker option.
+		Enter the short description for the service section under 'Section Description' field.
+		Set the color for the contents of this section from 'Section Content Color' color picker option.
+		Select the service page from 'Service (1-4) dropdown list.
+		Set the Background Color for the section from 'Background Color' color picker option as per your requirement.
+		Or,
+		Set the Background Image for the section by clicking on 'Select Image' button and select the image as per your requirement from the media library.
+		After selecting the image you'll be provided with the set of background option (repeat, position, attachment, size etc..). Configure the option as per your requirement.
+		You may also enable/disable the background overlay (a light blue transparency over the section) option as per your requirement.
+		Click on 'Save & Publish' button.
+		
+	Configuring Blog Section
+		Create Category for the Blog Section.
+			Go to Dashboard > Posts > Categories.
+			Enter the name for the category (e.g. 'blog')
+		Create Blog posts.
+			Go to Dashboard > Posts > Add New.
+			Enter the title and contents for the blog post.
+			Select the blog category for the blog post.
+			Set the Featured Image for the blog Post.
+			Click on Publish/Update button.
+		
+		Go to Dashboard > Appearance > Customize > Home Page Settings.
+		Under Blog Section.
+		Check on 'Enable Section' option to display this section at home page.
+		Enter the menu text for the section in 'Section Menu Text' field. The text will be shown as menu item. If you leave this field empty the menu item for this section won't be displayed in the parallax menu section.
+		Enter the Section title under 'Section Title' field as per your requirement.
+		Select the color for the section title from 'Section Title Color' color picker option.
+		Select the blog category in from 'Select Category' dropdown list.
+		Enter your custom 'View All' text under 'Blog View All Text' field.
+		Set the Background Color for the section from 'Background Color' color picker option as per your requirement.
+		Or,
+		Set the Background Image for the section by clicking on 'Select Image' button and select the image as per your requirement from the media library.
+		After selecting the image you'll be provided with the set of background option (repeat, position, attachment, size etc..). Configure the option as per your requirement.
+		You may also enable/disable the background overlay (a light blue transparency over the section) option as per your requirement.
+		Click on 'Save & Publish' button.
+	
+	Configuring Call To Action Section
+		Go to Dashboard > Appearance > Customize > Home Page Settings.
+		Under Our Call To Action Section.
+		Check on 'Enable Section' option to display this section at home page.
+		Enter the menu text for the section in 'Section Menu Text' field. The text will be shown as menu item. If you leave this field empty the menu item for this section won't be displayed in the parallax menu section.
+		Enter the contents for the Call to Action in 'Section Description' field.
+		Set the color for the contents of this section from 'Section Content Color' color picker option.
+		Enter the text for the Call to Action button under 'Button Text' field.
+		Enter the link address for the Call to Action button under 'Button Link' field.
+		Set the Background Color for the section from 'Background Color' color picker option as per your requirement.
+		Or,
+		Set the Background Image for the section by clicking on 'Select Image' button and select the image as per your requirement from the media library.
+		After selecting the image you'll be provided with the set of background option (repeat, position, attachment, size etc..). Configure the option as per your requirement.
+		You may also enable/disable the background overlay (a light blue transparency over the section) option as per your requirement.
+		Click on 'Save & Publish' button.
+		
+	Configuring Testimonial Section
+		Create Category for the Testimonial Section.
+			Go to Dashboard > Posts > Categories.
+			Enter the name for the category (e.g. 'testimonial')
+		Create testimonial posts.
+			Go to Dashboard > Posts > Add New.
+			Enter the title and contents for the testimonial post.
+			Select the testimonial category for the testimonial post ('testimonial').
+			Set the Featured Image for the testimonial Post.
+			Click on Publish/Update button.
+		
+		Go to Dashboard > Appearance > Customize > Home Page Settings.
+		Under Testimonial Section.
+		Check on 'Enable Section' option to display this section at home page.
+		Enter the menu text for the section in 'Section Menu Text' field. The text will be shown as menu item. If you leave this field empty the menu item for this section won't be displayed in the parallax menu section.
+		Enter the Section title under 'Section Title' field as per your requirement.
+		Select the color for the section title from 'Section Title Color' color picker option.
+		Select the color for the section content from 'Section Content Color' color picker option.
+		Select the testimonial category in from 'Select Category' dropdown list.
+		Set the Background Color for the section from 'Background Color' color picker option as per your requirement.
+		Or,
+		Set the Background Image for the section by clicking on 'Select Image' button and select the image as per your requirement from the media library.
+		After selecting the image you'll be provided with the set of background option (repeat, position, attachment, size etc..). Configure the option as per your requirement.
+		You may also enable/disable the background overlay (a light blue transparency over the section) option as per your requirement.
+		Click on 'Save & Publish' button.
+		
+	Configuring Team Section
+		Create Category for the Team Section.
+			Go to Dashboard > Posts > Categories.
+			Enter the name for the category (e.g. 'team')
+		Create team posts.
+			Go to Dashboard > Posts > Add New.
+			Enter the Name of the team member in title field
+			Enter the decription about the team member in the content field.
+			Select the team category for the team post ('team').
+			Set the Featured Image for the team member.
+			Click on Publish/Update button.
+		
+		Go to Dashboard > Appearance > Customize > Home Page Settings.
+		Under Team Section.
+		Check on 'Enable Section' option to display this section at home page.
+		Enter the menu text for the section in 'Section Menu Text' field. The text will be shown as menu item. If you leave this field empty the menu item for this section won't be displayed in the parallax menu section.
+		Enter the Section title under 'Section Title' field as per your requirement.
+		Select the color for the section title from 'Section Title Color' color picker option.
+		Select the color for the section content from 'Section Content Color' color picker option.
+		Select the team category in from 'Select Category' dropdown list.
+		Set the Background Color for the section from 'Background Color' color picker option as per your requirement.
+		Or,
+		Set the Background Image for the section by clicking on 'Select Image' button and select the image as per your requirement from the media library.
+		After selecting the image you'll be provided with the set of background option (repeat, position, attachment, size etc..). Configure the option as per your requirement.
+		You may also enable/disable the background overlay (a light blue transparency over the section) option as per your requirement.
+		Click on 'Save & Publish' button.
+		
+	Configuring Contact Section
+		Go to Dashboard > Appearance > Customize > Home Page Settings.
+		Under Contact Section.
+		Check on 'Enable Section' option to display this section at home page.
+		Enter the menu text for the section in 'Section Menu Text' field. The text will be shown as menu item. If you leave this field empty the menu item for this section won't be displayed in the parallax menu section.
+		Enter the contact email id you wish to display in 'Email' field.
+		Enter the contact address info in 'Address' field.
+		Enter the contact phone no. in 'Phone' field
+		Check on 'Display Google Map' option if you wish to display the google map in contact section else leave lit unchecked.
+		Get the latitude and longitude value for your location from latlong.net.
+		Enter the latitude value in 'Google Map Latitude' field.
+		Enter the longitude value in 'Google Map longitude' field.
+		Set the Background Color for the section from 'Background Color' color picker option as per your requirement.
+		Or,
+		Set the Background Image for the section by clicking on 'Select Image' button and select the image as per your requirement from the media library.
+		After selecting the image you'll be provided with the set of background option (repeat, position, attachment, size etc..). Configure the option as per your requirement.
+		You may also enable/disable the background overlay (a light blue transparency over the section) option as per your requirement.
+		Click on 'Save & Publish' button.
+		
+Configuring Blog/Archive Page
+	Create a Category for Blog Posts (e.g. 'Blog')	
+		Go to Dashboard > Posts > Categories.
+		Enter the Name for the blog category.
+		Click on 'Add New Category'.
+	Create the blog post under the blog category.
+		Go to Dashboard > Posts > Add New.
+		Enter the title for the blog post.
+		Enter the contents for the blog post.
+		Select the blog category from categories option.
+		Set the feature image for the blog post.
+		Click on 'Publish' button.
+	Configure the blog to display on home page
+		Go to Dashboard > Appearance > Customize.
+		Go to 'Home Page Settings' panel.
+		Under Blog Section select the blog category under 'Select Category' dropdown list.
+	Configuring the Blog Layout for the Blog Page.
+		Go to Dashboard > Appearance > Cutomize.
+		Under Blog/Archive Settings.
+		Select the blog page layout from 'Select Layout' dropdown list.
+		Click on 'Save & Publish' button.
+		
+Configuring Footer
+	Configuring Footer Menu
+		Go to Dashboard > Appearance > Menus.
+		Click on 'Create a new Menu'.
+		Enter the name for the menu in 'Menu Name' text field.
+		Then click on 'Create Menu' button.
+		Now Add the menu item from left to the menu structure as per your requirement.
+		Then Set the theme location to 'Footer Menu' and click on 'Save Menu'.
+	Configuring Footer Social Links
+		Make Sure you've installed and activated 'AccessPress Social Icons' plugin.
+		Now Go to Dashboard > AccessPress Social Icons and create a new set of social icons e.g. 'Footer Icons'.
+		Then Go to Dashboard > Appearance > Widgets.
+		Add 'AccessPress Social Icons' widget to 'Footer Social Links' widget area then select the your footer social icon from 'Icon Set' dropdown list and click on 'Save' button.
